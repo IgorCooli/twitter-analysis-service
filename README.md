@@ -26,6 +26,7 @@ Esse serviço deve ser executado em conjunto com o [*serviço consumidor do Twit
 
 ### Endpoints:
 `URL_SISTEMA/tweet/execute` -> Retorna todos os tweets já analisados
+
 `URL_SISTEMA/text?text={texto para análise}` -> Realiza a análise de sentimentos em uma frase
 
 ---
